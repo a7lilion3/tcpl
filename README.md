@@ -11,3 +11,5 @@
   _1.5.4. Word Couting_<br>
 1.6. Arrays<br>
 1.7. Functions<br>
+1.8. Arguments -- Call by Value<br>
+1.9. Character Arrays<br>
